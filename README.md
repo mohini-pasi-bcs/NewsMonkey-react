@@ -1,3 +1,11 @@
+# My Project
+
+This is my project description.
+
+Here is the output from running the program:
+
+![Program Output](output.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
